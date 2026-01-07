@@ -15,4 +15,4 @@ Docker, Kubernetes, AWS | Jenkins | Jira
 ### Open to
 Java backend / full-stack roles and collaboration
 
-📩 Reach me at: pranayp.patil.15@gmail.com
+📩 Reach me at: pranayp.kadu@gmail.com
