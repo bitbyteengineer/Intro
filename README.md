@@ -1,5 +1,18 @@
-Hi, I’m Pranay — a Java/J2EE full-stack engineer focused on building production-grade systems end to end: Spring Boot microservices, MySQL-backed APIs, and ReactJS UIs, with strong attention to performance, clean architecture, and maintainability.
+## Hi, I’m Pranay 👋
 
-I ship with engineering rigor—automated testing (JUnit), CI/CD (Jenkins), and cloud-native delivery using Docker, Kubernetes, and AWS—while collaborating effectively in Agile/SAFe workflows via Jira.
+Java/J2EE full-stack engineer focused on building production-grade services and web apps with strong fundamentals in system design, testing, and delivery.
 
-📩 Contact: pranayp.patil.15@gmail.com
+- I build Spring Boot microservices, design clean data models in MySQL, and ship responsive UIs with ReactJS.
+- I take features from idea → API → UI → CI/CD → cloud deployment using AWS, Docker, Kubernetes, and Jenkins.
+- I collaborate effectively in Agile/SAFe teams using Jira, with a bias for maintainability, performance, and clean architecture.
+
+### Tech
+Java, J2EE, Python | Spring Boot | ReactJS | MySQL | JUnit
+
+### Tools
+Docker, Kubernetes, AWS | Jenkins | Jira
+
+### Open to
+Java backend / full-stack roles and collaboration
+
+📩 Reach me at: pranayp.patil.15@gmail.com
