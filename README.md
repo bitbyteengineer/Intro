@@ -1,7 +1,7 @@
 ## Hi, I’m Pranay 👋
 
 ### Tech
-Java, J2EE, Python | Spring Boot | ReactJS | MySQL | JUnit
+Java, J2EE, Python | Spring Boot | AngularJS | MySQL | JUnit
 
 ### Tools
 Docker, Kubernetes, AWS | Jenkins | Jira
